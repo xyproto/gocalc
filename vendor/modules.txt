@@ -1,0 +1,13 @@
+# github.com/mattn/go-gtk v0.0.0-20191030024613-af2e013261f5
+## explicit
+github.com/mattn/go-gtk/gdk
+github.com/mattn/go-gtk/gdkpixbuf
+github.com/mattn/go-gtk/gio
+github.com/mattn/go-gtk/glib
+github.com/mattn/go-gtk/gtk
+github.com/mattn/go-gtk/pango
+# github.com/mattn/go-pointer v0.0.1
+## explicit
+github.com/mattn/go-pointer
+# github.com/stretchr/testify v1.6.2-0.20201103103935-92707c0b2d50
+## explicit
